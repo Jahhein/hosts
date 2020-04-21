@@ -8,7 +8,11 @@
 # Please forward any additions, corrections or comments by email to
 # hosts@someonewhocares.org
 
+<<<<<<< Updated upstream
 # Last updated: Mon, 30 Mar 2020 at 07:26:50 GMT
+=======
+# Last updated: Fri, 21 Jun 2019 at 05:47:39 GMT
+>>>>>>> Stashed changes
 
 # Use this file to prevent your computer from connecting to selected
 # internet hosts. This is an easy and effective way to protect you from 
@@ -941,7 +945,10 @@ ff02::3		ip6-allhosts
 0.0.0.0 htm.freelogs.com
 0.0.0.0 http300.edge.ru4.com
 0.0.0.0 hud8mxdt.computerhelpmirror.top
+<<<<<<< Updated upstream
 0.0.0.0 ib.adnxs.com
+=======
+>>>>>>> Stashed changes
 0.0.0.0 iccee.com
 0.0.0.0 ic.tynt.com
 0.0.0.0 idm.hit.gemius.pl
@@ -10667,7 +10674,7 @@ ff02::3		ip6-allhosts
 0.0.0.0 secimage.adtech.fr
 0.0.0.0 secimage.adtech.us
 0.0.0.0 secondchancecoaching.com
-0.0.0.0 secret.xn--oogle-wmc.com
+0.0.0.0 secret.xn--oogle-3fa01c.com
 0.0.0.0 secretlanguage.co
 0.0.0.0 secserv.adtech.de
 0.0.0.0 secserv.adtech.fr
